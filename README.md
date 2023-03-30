@@ -59,7 +59,7 @@ We are very excited to share this dashboard with you and we look forward to hear
 Quick start options:
 
 - Clone the repo: `git clone https://github.com/priyonggo/material-dashboard-react-nodejs.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react-nodejs/archive/master.zip).
+- [Download from Github](https://github.com/priyonggo/material-dashboard-react-nodejs/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-react-nodejs).
 - Follow the [tutorial] (https://medium.com/udevoffice/how-to-setup-a-development-environment-using-node-js-and-docker-material-dashboard-react-d4a16220c759)
 
